@@ -4,7 +4,7 @@ description: Create and upload avatar characters, clothing, and accessories to t
 hideBreadcrumbs: true
 ---
 
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/EUDSIUmLjxA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="4500 src="https://www.youtube-nocookie.com/embed/EUDSIUmLjxA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br /><br />
 
 Every Roblox user is represented by a customizable character called an **avatar**. Avatars are character models with many specialized features that allow users to interact with [experiences](../platform.md) and customize themselves with a wide range of clothing and accessories from the [Marketplace](https://www.roblox.com/catalog).
